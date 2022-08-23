@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    height: 1200px;
+    width: auto;
+    background-repeat: no-repeat;
+
+}
+
+#ny{
+    width: 1890px;
+    height: fit-content;
+    border-image-repeat: repeat;
+    z-index: -1;
+    margin-top: 0%;
+    background-repeat: no-repeat;
+
+    
+}
+
+#quote{
+    font-family: 'Aboreto', cursive;
+    text-align: center;
+    left: 400px;
+    top: 0px;
+    z-index: 1;
+    position: sticky;
+    color: rgb(188, 14, 14);
+    margin-top: 0%;
+    text-shadow: 1px 1px  purple;
+    font-size: 100px;
+    
+}
+
+#foot{
+    font-size: 25px;
+    color: white;
+    left: 0%;
+    margin-top: 515px;
+    background-image: linear-gradient(to top,rgba(0, 0, 0, 0.103), rgb(255, 89, 0));
+    width: 1900;
+    height: 200px;
+}
+
+#joe{
+    right: 1000%;
+}
